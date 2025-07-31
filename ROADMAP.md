@@ -21,16 +21,16 @@ This document outlines the development plan for the Gamified Checklist App, foll
     -   [x] Implement a basic, tagged logging system.
     -   [x] Create a minimal Kivy app that boots to a black screen.
 
-2.  **Data Models**
-    -   [ ] Define `Task`, `Category`, and `User` data classes.
-    -   [ ] Write unit tests for all model operations (creation, modification).
-    -   [ ] Implement a JSON storage utility to save/load model data.
+2.  **Data Models** ✅
+    -   [x] Define `Task`, `Category`, and `User` data classes.
+    -   [x] Write unit tests for all model operations (creation, modification).
+    -   [x] Implement a JSON storage utility to save/load model data.
 
-3.  **XP and Level System**
-    -   [ ] Implement XP calculation logic based on task difficulty/type.
-    -   [ ] Create a leveling algorithm (e.g., exponential XP curve).
-    -   [ ] Add logic to track and update user streaks.
-    -   [ ] Write unit tests for all XP and leveling logic.
+3.  **XP and Level System** ✅
+    -   [x] Implement XP calculation logic based on task difficulty/type.
+    -   [x] Create a leveling algorithm (e.g., exponential XP curve).
+    -   [x] Add logic to track and update user streaks.
+    -   [x] Write unit tests for all XP and leveling logic.
 
 ### UI Hops
 
